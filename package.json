@@ -1,13 +1,14 @@
 {
-  "name": "pursuit-showcase",
+  "name": "culinary",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pcioffi.github.io/culinary-showcase",
+  "homepage": "https://zerovirusexe.github.io/culinary/",
   "dependencies": {
     "@material-ui/core": "^4.4.3",
     "@material-ui/icons": "^4.4.3",
     "clsx": "^1.0.4",
     "firebase": "^7.1.0",
+    "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2",
