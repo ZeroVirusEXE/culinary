@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/culinary/static/js/main.3d5fb6af.chunk.js",
+    "main.js.map": "/culinary/static/js/main.3d5fb6af.chunk.js.map",
+    "runtime-main.js": "/culinary/static/js/runtime-main.24146e92.js",
+    "runtime-main.js.map": "/culinary/static/js/runtime-main.24146e92.js.map",
+    "static/js/2.3a790653.chunk.js": "/culinary/static/js/2.3a790653.chunk.js",
+    "static/js/2.3a790653.chunk.js.map": "/culinary/static/js/2.3a790653.chunk.js.map",
+    "index.html": "/culinary/index.html",
+    "precache-manifest.2412901cf11086a9a1caa392b67e8498.js": "/culinary/precache-manifest.2412901cf11086a9a1caa392b67e8498.js",
+    "service-worker.js": "/culinary/service-worker.js",
+    "static/media/Culinary-Logo-Text.png": "/culinary/static/media/Culinary-Logo-Text.cb6ba5e8.png"
+  }
+}
